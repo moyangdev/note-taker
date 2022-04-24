@@ -5,6 +5,8 @@
 ## Technologies
 ![Technologies](https://img.shields.io/badge/Express.js-404D59?logo=Git&logoColor=white)
 ![Technologies](https://img.shields.io/badge/-JavaScript-007396?logo=JavaScript&logoColor=white)
+![Technologies](https://img.shields.io/badge/Node.js-43853D?logoColor=white)
+![Technologies](https://img.shields.io/badge/Heroku-430098?logo=Git&logoColor=white)
 ![Technologies](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
 
 ## Description
