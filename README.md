@@ -41,11 +41,12 @@ The following images show the web application's appearance and functionality:
 ![image](https://user-images.githubusercontent.com/98504854/164965105-b2c7844e-e166-4b28-ba40-04977d0d6815.png)
 ![image](https://user-images.githubusercontent.com/98504854/164965112-1a0880c2-cdd1-4bf4-b309-e2eb156158b4.png)
 
-## Installation
-Please pull down the repository and run it locally <br />
-
 ## Link
 A link to the [code](https://github.com/moyangdev/note-taker):
 ```
 https://github.com/moyangdev/note-taker
+```
+A link to the deployed [application](https://blooming-journey-66128.herokuapp.com/):
+```
+https://blooming-journey-66128.herokuapp.com/
 ```
